@@ -11,7 +11,6 @@
 ## 4.1.2 Cutoff Frequency Behavior
 - The cutoff frequency aligns with the theoretical design.
 - The observed **-3 dB point** validates the filter's low-pass characteristic.
-
 ## Circuit Syntax (Code or Equations)
 
 ### Cutoff Frequency Calculation:
