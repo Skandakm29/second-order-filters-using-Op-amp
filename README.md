@@ -45,17 +45,7 @@ At any frequency `f`, the phase is calculated as:
    - **Sweep Type**: **Decade**
 3. Observe the output waveform for both **magnitude** and **phase response**.
 
-## Repository Structure
-```
-.
-├── README.md             # Project overview and instructions
-├── CircuitDesign.asc     # Circuit file for LTspice
-├── Results/
-│   ├── MagnitudeResponse.png  # Magnitude response plot
-│   ├── PhaseResponse.png      # Phase response plot
-└── Documentation/
-    ├── LowPassFilter_Analysis.docx  # Detailed documentation
-```
+
 
 ## Contributions
 Feel free to contribute to this project. Submit an issue or pull request if you find any improvements!
